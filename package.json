@@ -23,7 +23,8 @@
     "@graphql-tools/merge": "^8.3.0",
     "@graphql-tools/schema": "^8.5.0",
     "@prisma/client": "^4.0.0",
-    "apollo-server": "^2.25.2"
+    "apollo-server": "^2.25.2",
+    "dotenv": "^16.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6",
